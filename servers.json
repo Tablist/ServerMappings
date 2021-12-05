@@ -1008,5 +1008,12 @@
         "addresses": [
             "vaultpvp.net"
         ]
+    },
+    {
+        "id": "sylluxpvp",
+        "name": "SylluxPvP Network",
+        "addresses": [
+            "sylluxpvp.cf"
+        ]
     }
 ]
